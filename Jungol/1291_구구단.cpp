@@ -20,6 +20,7 @@ int main()
                 break;
         }
     }
+ 
     if (s > e)
     {
         for (j = 1; j < 10; j++)
