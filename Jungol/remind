@@ -1,0 +1,48 @@
+#파이썬 복습
+
+#707 : 출력 형성평가
+#다음과 같이 출력하는 프로그램을 작성하시오.
+#My name is Hong
+
+print("My name is Hong")
+
+
+#708 : 출력 형성평가
+#다음과 같이 출력하는 프로그램을 작성하시오.
+#My hometown
+#Flowering mountain
+
+print("My hometown\nFlowering mountain")
+
+
+#709 : 출력 형성평가
+#다음과 같이 출력하는 프로그램을 작성하시오.
+#TTTTTTTTTT
+#TTTTTTTTTT
+#    TT
+#    TT
+#    TT
+
+print("TTTTTTTTTT")
+print("TTTTTTTTTT")
+print("    TT")
+print("    TT")
+print("    TT")
+
+
+#710 : 출력 형성평가
+#다음과 같이 출력되는 프로그램을 작성하시오. (합계와 평균은 수식을 이용할 것)
+#kor 90
+#mat 80
+#eng 100
+#sum 270
+
+kor = 90
+mat = 80
+eng = 100
+sum = kor + mat + eng
+
+print("kor",kor)
+print("mat",mat)
+print("eng",eng)
+print("sum",sum) 
